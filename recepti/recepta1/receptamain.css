@@ -1,0 +1,24 @@
+body{
+  background: url("receptabackground1.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+}
+a:link{
+  text-decoration: none;
+}
+/* sastavki start */
+#sastavki, #hrstoinosti{
+   list-style: none;
+}
+/* sastavki end */
+/* Zaglavie:sustavki, nachin na prigotvqne, hr. stoinosti, polezna informaciq, pr. apetit START */
+.zaglavie{
+  color: #963c15;
+  font-size: 200%;
+}
+/* Zaglavie:sustavki, nachin na prigotvqne, hr. stoinosti, polezna informaciq, pr. apetit START */
+.tekst{
+  font-size: 150%;
+  font-family: 'Pacifico', cursive;
+
+}

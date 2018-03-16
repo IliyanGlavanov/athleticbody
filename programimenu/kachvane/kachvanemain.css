@@ -1,0 +1,24 @@
+body{
+  background: url("../articlebackground.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+.post-content-section{
+/*  background-color: #E8E8E8; */
+}
+a:link{
+  text-decoration: none;
+}
+#contactus{
+  display: none;
+}
+#nachinaesht{
+  padding-bottom: 20px;
+}
+/* Zaglavie - START */
+.zaglavie{
+  font-size: 130%;
+}
+/* SPISAK- START */
+.tekst{
+  font-size: 130%;
+}
