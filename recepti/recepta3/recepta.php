@@ -13,17 +13,17 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12 post-title-block">
-            <h1 class="text-center">Салата от нахут и чери домати</h1>
+            <h1 class="text-center">Пилешка супа с гъби</h1>
             <ul class="list-inline text-center">
-              <li>Георги Самуилов |</li>
+              <li>Илиян Главанов |</li>
               <li>Рецепти |</li>
-              <li>15.03.18г. |</li>
+              <li>17.03.18г. |</li>
             </ul>
           </div>
         </div>
         <div class="row">
           <div class="col-md-9 col-sm-12">
-            <img src="../salata-nahut2.jpg" alt="post img" class="imgrecepta pull-left img-responsive thumb margin10">
+            <img src="../pileshka-supa2.jpg" alt="post img" class="imgrecepta pull-left img-responsive thumb margin10">
           </div>
             <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
               <div class="well">
@@ -45,13 +45,13 @@
               <div class="well">
                 <div class="media">
                   <div class="media-left">
-                    <a href="../../../recepti/recepta3/recepta">
+                    <a href="../../../recepti/recepta2/recepta">
                     <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../book.png" data-holder-rendered="true">
                     </a>
                   </div>
                   <div class="media-body">
-                  <a href="../../../recepti/recepta3/recepta">
-                    <h4 class="media-heading">Пилешка супа с гъби!</h4>
+                  <a href="../../../recepti/recepta2/recepta">
+                    <h4 class="media-heading">Салата с нахут и чери домати!</h4>
                   </a>
                   </div>
                 </div>
@@ -63,14 +63,15 @@
           <div class="col-md-9">
             <p class="lead text-center zaglavie">Необходими продукти:</p>
             <ul class="text-center tekst" id="sastavki">
-              <li>1 консерва сварен нахут</li>
-              <li>1 глава лук на едро</li>
-              <li>2 скилидки счукан чесън</li>
-              <li>10 чери домата на половинки</li>
-              <li>4 с.л. зехтин</li>
-              <li>Сок от 1 лимон</li>
-              <li>Сол на вкус</li>
-              <li>Магданоз за поръсване</li>
+              <li>500гр. микс от различни пресни гъби</li>
+              <li>500гр. пилешко филе</li>
+              <li>6 с.л. зехтин</li>
+              <li>1 глава лук</li>
+              <li>1 морков</li>
+              <li>200мл заквасена или течна сметана</li>
+              <li>1 яйца</li>
+              <li>Сол, черен пипер на вкус</li>
+              <li>Магнадоз и риган</li>
             </ul>
           </div>
         </div>
@@ -80,27 +81,29 @@
         </div>
         <div class="row">
           <p class="col-md-9 tekst text-center">
-            Отцедете нахута и го сложете в купа.
-            Залейте го с лимоновия сок и зехтина.
-            Посолете, разбъркайте и оставете настрана,
-            докато приготвите останалите съставки.
+            Загрейте зехтина в тенджерата и запържете на дребно нарязания лук за секунди.
+            Добавете моркова и нарязаните гъби.
+            След като поомекнат долейте с достатъчно количество вода и варете около 10 мин.
           </p>
           <p class="col-md-9 tekst text-center">
-            Нарежете доматите и ги смесете със лука и чесъна.
+            През това време нарежете пилешкото месо на малки парчета.
+            Добавете го в супата и варете около 25 мин. до готовност.
+            Овкусете със сол и черен пипер.
           </p>
           <p class="col-md-9 tekst text-center">
-            Смесете нахута и останалите съставки и разбъркайте.
+            Разбийте яйцето със сметаната и малко оцет и темперирайте с бульона.
+            Добавете застройката към супата и снемете от котлона.
           </p>
         </div>
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12">
             <p class="lead text-center zaglavie">Хранителни стойности:</p>
             <ul class="text-center tekst" id="hrstoinosti">
-              <li>Калории : 580ккал</li>
-              <li>Белтъчини : 34,5 гр.</li>
-              <li>Въглехидрати : 22гр.</li>
-              <li>Мазнини : 15гр.</li>
-              <li>Фибри : 20гр. </li>
+              <li>Калории: 1000ккал</li>
+              <li>Белтъчини : 64гр.</li>
+              <li>Въглехидрати : 16гр.</li>
+              <li>Мазнини: 14гр.</li>
+              <li>Фибри : 27гр.</li>
             </ul>
           </div>
         </div>
@@ -111,7 +114,7 @@
         </div>
         <div class="row">
           <p class="col-md-9 tekst text-center">
-            При поднасяне поръсете с магданоз
+            При сервиране, поръсете със свеж магданоз и риган.
           </p>
         </div>
         <div class="row">
@@ -119,7 +122,7 @@
             <p class="lead text-center zaglavie">Приятен апетит!</p>
           </div>
         </div>
-      </div>
+    </div>
     </section>
 <div id="contactus">
   <?php

@@ -4,19 +4,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- MY custom .JS -->
-  <script type="text/javascript" src="contactbutton.js"></script>
-    <!-- My custom .CSS -->
     <link type="text/css" rel="stylesheet" href="poddurjanemain.css" />
   </head>
 
  <body>
   <section class="post-content-section">
     <div class="container">
-
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 post-title-block">
-
                 <h2 class="text-center">Хранителен режим за поддържане на теглото</h2>
                 <ul class="list-inline text-center">
                     <li>Георги Самуилов |</li>
@@ -24,20 +19,60 @@
                     <li>23.01.18г. |</li>
                 </ul>
             </div>
+          </div>
+          <div class="row">
             <div class="col-lg-9 col-md-9 col-sm-12">
                 <img class="img-responsive" src="poddurjane.jpg"/>
              </div>
-            <div class="col-lg-3  col-md-3 col-sm-12">
-                <div class="well">
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#">
-                          <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" />
-                        </a>
-                      </div> <div class="media-body"> <h4 class="media-heading">Хранителен режим за поддържане</h4></div>
+             <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+               <div class="well">
+                 <div class="media">
+                   <div class="media-left">
+                     <a href="../../../programimenu/nachinaeshti/nachinaeshti">
+                     <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../exercise.png" data-holder-rendered="true">
+                     </a>
                    </div>
-                </div>
-              </div>
+                   <div class="media-body">
+                     <a href="../../../programimenu/nachinaeshti/nachinaeshti">
+                     <h4 class="media-heading">Тренировъчна програма- за начинаещи!</h4>
+                   </a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+             <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+               <div class="well">
+                 <div class="media">
+                   <div class="media-left">
+                     <a href="../../../programimenu/relef/relef">
+                     <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../exercise.png" data-holder-rendered="true">
+                     </a>
+                   </div>
+                   <div class="media-body">
+                     <a href="../../../programimenu/relef/relef">
+                     <h4 class="media-heading">Тренировъчна програма- за релеф!</h4>
+                   </a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+             <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+               <div class="well">
+                 <div class="media">
+                   <div class="media-left">
+                     <a href="../../../programimenu/kachvane/kachvane">
+                     <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../exercise.png" data-holder-rendered="true">
+                     </a>
+                   </div>
+                   <div class="media-body">
+                     <a href="../../../programimenu/kachvane/kachvane">
+                     <h4 class="media-heading">Тренировъчна програма- за качване!</h4>
+                   </a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
         <div class="row">
             <div class="col-lg-9  col-md-9 col-sm-12">
               <h3>Хранене 1: Сутрин</h3>
@@ -113,20 +148,15 @@
 
     </div> <!-- /container -->
 </section>
-            <!-- FOOTER START -->
-              <footer class="container">
-                  <div class="row footer-social-icons">
-                      <h4 class="_14">Follow us on</h4>
-                      <ul class="social-icons">
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="Facebook"> <i class="fa fa-facebook"></i></a></li>
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="Twitter"> <i class="fa fa-twitter"></i></a></li>
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="RSS"> <i class="fa fa-rss"></i></a></li>
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="YouTube"> <i class="fa fa-youtube"></i></a></li>
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="LinkedIn"> <i class="fa fa-linkedin"></i></a></li>
-                          <li><a href="" class="social-icon" data-toggle="tooltip" title="Google"> <i class="fa fa-google-plus"></i></a></li>
-                      </ul>
-                  </div>
-              </footer>
-
+   <!-- FOOTER START -->
+   <div id="contactus">
+     <?php
+         include("../../contactus.php");
+     ?>
+   </div>
+     <?php
+       include("../../footer.php");
+     ?>
+   <!-- FOOTER END -->
  </body>
   </html>

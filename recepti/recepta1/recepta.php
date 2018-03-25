@@ -12,7 +12,7 @@
     <section class="post-content-section">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12 post-title-block">
+          <div class="col-lg-9 col-md-9 col-sm-12 col-sx-12 post-title-block">
             <h1 class="text-center">Какаови кексчета със стафиди и орехи </h1>
             <ul class="list-inline text-center">
               <li>Георги Самуилов |</li>
@@ -22,12 +22,44 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-9 col-sm-12">
+          <div class="col-md-9 col-sm-12 col-xs-12">
             <img src="../kekscheta.jpg" alt="post img" class="imgrecepta pull-left img-responsive thumb margin10">
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../recepti/recepta2/recepta">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../book.png" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                <a href="../../../recepti/recepta2/recepta">
+                  <h4 class="media-heading">Салата с нахут и чери домати!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../recepti/recepta3/recepta">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../book.png" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                <a href="../../../recepti/recepta3/recepta">
+                  <h4 class="media-heading">Пилешка супа с гъби!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-9">
+          <div class="col-md-9 col-sm-12 col-xs-12">
             <p class="lead text-center zaglavie">Съставки:</p>
             <ul class="text-center tekst" id="sastavki">
               <li>80гр. конопено брашно </li>
@@ -73,6 +105,7 @@
             <p class="lead text-center zaglavie">Приятен апетит!</p>
           </div>
         </div>
+      </div>
     </section>
 <div id="contactus">
   <?php
