@@ -6,8 +6,6 @@
 <head>
   <!-- My custom .CSS -->
   <link type="text/css" rel="stylesheet" href="statiqmain.css?=1" />
-  <!-- MY custom .JS -->
-  <script type="text/javascript" src="contactbutton.js"></script>
 </head>
 
 <body>
@@ -30,12 +28,51 @@
         <div class="col-lg-9 col-md-9 col-sm-12">
           <img class="img-responsive" src="statiq5.png" />
         </div>
-        <div class="col-lg-3  col-md-3 col-sm-12">
+        <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
           <div class="well">
             <div class="media">
-              <div class="media-left"> <a href="#"> <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTY5MjIxZTM1NSB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1NjkyMjFlMzU1Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMi41IiB5PSIzNi44Ij42NHg2NDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true"> </a>                </div>
+              <div class="media-left">
+                <a href="../../../statii/stranica2/statiq1/statiq1">
+                <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                </a>
+              </div>
               <div class="media-body">
-                <h4 class="media-heading">Хранителен режим за поддържане</h4></div>
+                <a href="../../../statii/stranica2/statiq1/statiq1">
+                <h4 class="media-heading">Въглехидратите!</h4>
+              </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+          <div class="well">
+            <div class="media">
+              <div class="media-left">
+                <a href="../../../statii/stranica2/statiq2/statiq2">
+                <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                </a>
+              </div>
+              <div class="media-body">
+                <a href="../../../statii/stranica2/statiq2/statiq2">
+                <h4 class="media-heading">Да ядем всичко и да отслабваме!</h4>
+              </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+          <div class="well">
+            <div class="media">
+              <div class="media-left">
+                <a href="../../../statii/stranica2/statiq3/statiq3">
+                <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                </a>
+              </div>
+              <div class="media-body">
+                <a href="../../../statii/stranica2/statiq3/statiq3">
+                <h4 class="media-heading">Може ли без месо?</h4>
+              </a>
+              </div>
             </div>
           </div>
         </div>
@@ -80,6 +117,86 @@
                      Бъдете мотивирани, имайте търпение и вярвайте в успеха!
                   </li>
               </ul>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica2/statiq4/statiq4">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica2/statiq4/statiq4">
+                  <h4 class="media-heading">Отслабвай здравословно!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica2/statiq5/statiq5">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica2/statiq5/statiq5">
+                  <h4 class="media-heading">Принципи на здравословното хранене!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica2/statiq6/statiq6">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica2/statiq6/statiq6">
+                  <h4 class="media-heading">Фурмите- съкровище от полезни вещества!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica2/statiq7/statiq7">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica2/statiq7/statiq7">
+                  <h4 class="media-heading">Хранене при покачване на мускулна маса!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica2/statiq8/statiq8">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../food.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica2/statiq8/statiq8">
+                  <h4 class="media-heading">Хранене с ограничен бюджет!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
       </div>
     </div>

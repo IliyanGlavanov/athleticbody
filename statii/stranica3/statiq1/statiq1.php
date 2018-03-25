@@ -34,12 +34,12 @@
               <div class="media">
                 <div class="media-left">
                   <!-- SMENI TOZI LINK -->
-                  <a href="../../../statii/stranica1/statiq1/statiq1">
+                  <a href="../../../statii/stranica1/statiq1/statiq1.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq1/statiq1">
+                  <a href="../../../statii/stranica1/statiq1/statiq1.php">
                   <h4 class="media-heading">Бързото отслабване е равно на мускулен разпад!</h4>
                 </a>
                 </div>
@@ -50,12 +50,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq2/statiq2">
+                  <a href="../../../statii/stranica1/statiq2/statiq2.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq2/statiq2">
+                  <a href="../../../statii/stranica1/statiq2/statiq2.php">
                   <h4 class="media-heading">За колко време идват резултатите?</h4>
                 </a>
                 </div>
@@ -66,12 +66,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq3/statiq3">
+                  <a href="../../../statii/stranica1/statiq3/statiq3.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq3/statiq3">
+                  <a href="../../../statii/stranica1/statiq3/statiq3.php">
                   <h4 class="media-heading">Заредени за мощна тренировка!</h4>
                 </a>
                 </div>
@@ -102,12 +102,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq4/statiq4">
+                  <a href="../../../statii/stranica1/statiq4/statiq4.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq4/statiq4">
+                  <a href="../../../statii/stranica1/statiq4/statiq4.php">
                   <h4 class="media-heading">Нужната мотивация да тренираш!</h4>
                 </a>
                 </div>
@@ -143,12 +143,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq5/statiq5">
+                  <a href="../../../statii/stranica1/statiq5/statiq5.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq5/statiq5">
+                  <a href="../../../statii/stranica1/statiq5/statiq5.php">
                   <h4 class="media-heading">Основни неща, които трябва да знаете, преди да започнете да тренирате!</h4>
                 </a>
                 </div>
@@ -159,12 +159,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq6/statiq6">
+                  <a href="../../../statii/stranica1/statiq6/statiq6.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq6/statiq6">
+                  <a href="../../../statii/stranica1/statiq6/statiq6.php">
                   <h4 class="media-heading">Проект "Мускулна маса"- За кого е предназначен той?</h4>
                 </a>
                 </div>
@@ -197,12 +197,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq7/statiq7">
+                  <a href="../../../statii/stranica1/statiq7/statiq7.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq7/statiq7">
+                  <a href="../../../statii/stranica1/statiq7/statiq7.php">
                   <h4 class="media-heading">Съвети за начинаещите в залата!</h4>
                 </a>
                 </div>
@@ -239,12 +239,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq8/statiq8">
+                  <a href="../../../statii/stranica1/statiq8/statiq8.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq8/statiq8">
+                  <a href="../../../statii/stranica1/statiq8/statiq8.php">
                   <h4 class="media-heading">Тренирай двуразово!</h4>
                 </a>
                 </div>
@@ -257,12 +257,12 @@
             <div class="well">
               <div class="media">
                 <div class="media-left">
-                  <a href="../../../statii/stranica1/statiq9/statiq9">
+                  <a href="../../../statii/stranica1/statiq9/statiq9.php">
                   <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
                   </a>
                 </div>
                 <div class="media-body">
-                  <a href="../../../statii/stranica1/statiq9/statiq9">
+                  <a href="../../../statii/stranica1/statiq9/statiq9.php">
                   <h4 class="media-heading">Тренировъчен подход - Пирамида!</h4>
                 </a>
                 </div>

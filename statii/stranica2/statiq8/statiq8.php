@@ -33,12 +33,19 @@
                но до толкова до колкото си го планираш.
             </h4>
           </div>
-          <div class="col-lg-3  col-md-3 col-sm-12">
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
             <div class="well">
               <div class="media">
-                <div class="media-left"> <a href="#"> <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTY5MjIxZTM1NSB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1NjkyMjFlMzU1Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMi41IiB5PSIzNi44Ij42NHg2NDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true"> </a>                  </div>
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq1/statiq1">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
                 <div class="media-body">
-                  <h4 class="media-heading">Хранителен режим за поддържане</h4></div>
+                  <a href="../../../statii/stranica1/statiq1/statiq1">
+                  <h4 class="media-heading">Бързото отслабване е равно на мускулен разпад!</h4>
+                </a>
+                </div>
               </div>
             </div>
           </div>
@@ -46,6 +53,54 @@
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12">
             <img class="img-responsive" src="../str2-p8.jpg" />
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq2/statiq2">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq2/statiq2">
+                  <h4 class="media-heading">За колко време идват резултатите?</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq3/statiq3">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq3/statiq3">
+                  <h4 class="media-heading">Заредени за мощна тренировка!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq4/statiq4">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq4/statiq4">
+                  <h4 class="media-heading">Нужната мотивация да тренираш!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
@@ -56,17 +111,27 @@
               особено за спортист, които трябва да яде по 500гр. на ден.
               Да вземем примера за човек, който тежи 80кг и има засилена
               спортна активност, неговото количество протеин за деня трябва да е от 200-240гр.
-            </h4>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-9 col-md-9 col-sm-12">
-            <h4>
               Така той избира да раздели тези 500гр. месо на три хранения,
               от които ще получи да кажем 130гр. белтъчини.
               Останалите 100гр. е решил да ги приема от хранене с яйца,
               суроватъчен протеин след тренировка и извара преди лягане.
               </h4>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq5/statiq5">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq5/statiq5">
+                  <h4 class="media-heading">Основни неща, които трябва да знаете, преди да започнете да тренирате!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
@@ -81,6 +146,22 @@
               само за храна- хранителните добавки, витамини и минерали са отделно.
               </h4>
           </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq6/statiq6">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq6/statiq6">
+                  <h4 class="media-heading">Проект "Мускулна маса"- За кого е предназначен той?</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12">
@@ -93,6 +174,22 @@
               Но пък не е изключено и да успеем по този начин.
               Да вземем същия пример за човека, който трябва да приеме 240гр. протеин за деня.
               </h4>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq7/statiq7">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq7/statiq7">
+                  <h4 class="media-heading">Съвети за начинаещите в залата!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
@@ -113,6 +210,38 @@
               повече от 7-8лв, което сумарно за месеца е около 240-50лв
               По приемливо нали?
               </h4>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq8/statiq8">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq8/statiq8">
+                  <h4 class="media-heading">Тренирай двуразово!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3 hidden-sm hidden-xs">
+            <div class="well">
+              <div class="media">
+                <div class="media-left">
+                  <a href="../../../statii/stranica1/statiq9/statiq9">
+                  <img data-src="holder.js/64x64" class="media-object" alt="64x64" style="width: 64px; height: 64px;" src="../../dumbbell.jpg" data-holder-rendered="true">
+                  </a>
+                </div>
+                <div class="media-body">
+                  <a href="../../../statii/stranica1/statiq9/statiq9">
+                  <h4 class="media-heading">Тренировъчен подход - Пирамида!</h4>
+                </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
